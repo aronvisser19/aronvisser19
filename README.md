@@ -1,7 +1,9 @@
 ### I make random stuff
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="./images/js.png" alt="javascript"></code>
+<code><img height="27" src="./images/php.png" alt="php"></code>
+<code><img height="27" src="./images/c.png" alt="c++"></code>
+<code><img height="27" src="./images/gml.png" alt="gml"></code>
 
 Thats enough about me, look at this:
 
