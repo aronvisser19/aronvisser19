@@ -1,5 +1,8 @@
 ### I make random stuff
 
+Thats enough about me, look at this:
+
+<img src="./images/dog-beers.jpg" width="512"/>
 
 <!--
 **aronvisser19/aronvisser19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
