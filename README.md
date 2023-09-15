@@ -1,11 +1,14 @@
 ### I make random stuff
 
 <code><img height="27" src="./images/js.png" alt="javascript"></code>
+<code><img height="27" src="./images/swift.png" alt="swift"></code>
 <code><img height="27" src="./images/php.png" alt="php"></code>
 <code><img height="27" src="./images/c.png" alt="c++"></code>
-<code><img height="27" src="./images/gml.png" alt="gml"></code>
 <code><img height="27" src="./images/react.png" alt="react"></code>
-<code><img height="27" src="./images/swift.png" alt="swift"></code>
+<code><img height="27" src="./images/expo" alt="expo"></code>
+<code><img height="27" src="./images/gml.png" alt="gml"></code>
+
+
 
 Thats enough about me, look at this:
 
