@@ -6,7 +6,7 @@
 <code><img height="27" src="./images/expo.png" alt="expo"></code>
 <code><img height="27" src="./images/gml.png" alt="gml"></code>
 
-<img src="./images/dog-beers.jpg" width="512"/>
+<img src="./images/Screenshot 2024-02-05 at 14.12.00.png" width="512"/>
 
 <!--
 **aronvisser19/aronvisser19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
